@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm code and learn exciting random stuff<br>🧑‍💻 Currently learning Spring Boot + mysql<br>👨‍🎓 Freshmen at JIIT, Noida<br>
+💻 I code and learn exciting random stuff<br>🧑‍💻 Currently learning Spring Boot + mysql<br>👨‍🎓 Freshmen at JIIT, Noida<br>
 
 
 ## 🌐 Socials:
